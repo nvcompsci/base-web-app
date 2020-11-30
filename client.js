@@ -1,3 +1,1 @@
-$(document).ready(function() {
-    
-});
+document.querySelector("p").style.color = "red"
